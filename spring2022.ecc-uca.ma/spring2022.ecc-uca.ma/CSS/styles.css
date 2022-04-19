@@ -1,0 +1,46 @@
+.person{
+    font-style: italic;
+    color: blue;
+    display: block;
+}
+
+td{
+	text-align:center;
+}
+.hour{
+    color:brown
+}
+
+table tr td:first-child{
+    line-break: normal;
+
+}
+
+.jumbotron{
+    margin-bottom: -30px;
+}
+
+
+.align-img{
+    display: flex;
+    justify-content: center;
+    margin:14px;
+}
+
+.align-img a{
+	display:flex;
+	align-items: center;
+	justify-content:center;
+	padding:5px;
+	padding-bottom:15px;
+	width: 100%;
+	height:100%;
+    text-decoration:none;
+}
+
+.align-img img{
+    max-height: 80%;
+    max-width: 200px;
+}
+
+
